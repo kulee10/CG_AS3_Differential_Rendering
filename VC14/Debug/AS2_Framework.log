@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(17): warning C4005: 'deg2rad': 巨集重複定義
+  c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\externals\include\include.h(49): note: 請參閱 'deg2rad' 之前的定義
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(322): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(323): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(355): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(357): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(426): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(428): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\hw3\107062309_as2\107062309_as2\source\main.cpp(473): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  AS2_Framework.vcxproj -> C:\Users\asus\Desktop\HW3\107062309_AS2\107062309_AS2\VC14\Debug\AS2_Framework.exe

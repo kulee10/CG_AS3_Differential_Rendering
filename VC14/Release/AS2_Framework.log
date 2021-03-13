@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(3): warning C4005: 'deg2rad': 巨集重複定義
+  c:\users\asus\desktop\107062309_as3\107062309_as2\externals\include\include.h(49): note: 請參閱 'deg2rad' 之前的定義
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(223): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(224): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(256): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(258): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(327): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(329): warning C4018: '<': signed/unsigned 不相符
+c:\users\asus\desktop\107062309_as3\107062309_as2\source\main.cpp(374): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼
+  1 of 1983 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  AS2_Framework.vcxproj -> C:\Users\asus\Desktop\107062309_AS3\107062309_AS2\VC14\Release\AS2_Framework.exe
